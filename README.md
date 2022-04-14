@@ -5,7 +5,7 @@ Heroku Link: https://jpa03-rishabhpoikayil.herokuapp.com/
 
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-rishabhpoikayil-docs/storybook>
-* QA:  <https://ucsb-cs156-s22.github.io/jpa03-rishabhpoikayil-docs-qa/storybook>
+* QA:  <https://ucsb-cs156-s22.github.io/jpa03-rishabhpoikayil-docs-qa>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
