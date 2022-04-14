@@ -1,4 +1,7 @@
-# demo-spring-react-example-v2: dsre-v2
+# jpa03-rishabhpoikayil
+Repo Link: https://github.com/ucsb-cs156-s22/jpa03-rishabhpoikayil
+
+Heroku Link: https://jpa03-rishabhpoikayil.herokuapp.com/
 
 Storybook is here:
 * Production: https://github.com/ucsb-cs156-s22/jpa03-rishabhpoikayil-docs
